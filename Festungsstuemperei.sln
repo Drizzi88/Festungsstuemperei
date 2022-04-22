@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Festungsstuemperei", "Festungsstuemperei\Festungsstuemperei.csproj", "{1E086E75-C43C-4206-A559-8BCD67FF056A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFortress", "LibFortress\LibFortress.csproj", "{D551DFB2-0B8F-4629-B20D-D997856EED4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E086E75-C43C-4206-A559-8BCD67FF056A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E086E75-C43C-4206-A559-8BCD67FF056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E086E75-C43C-4206-A559-8BCD67FF056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E086E75-C43C-4206-A559-8BCD67FF056A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D551DFB2-0B8F-4629-B20D-D997856EED4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D551DFB2-0B8F-4629-B20D-D997856EED4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D551DFB2-0B8F-4629-B20D-D997856EED4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D551DFB2-0B8F-4629-B20D-D997856EED4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1BACD4D-1BF6-41C4-B779-38C18C88D649}
+	EndGlobalSection
+EndGlobal
